@@ -14,3 +14,7 @@ Evaluation Metric:
 
 Root Mean Squre Error (RMSE) is the evaluation metric for this contest
 
+
+More forecasting resources:
+
+https://github.com/FocusedObjective/FocusedObjective.Resources
